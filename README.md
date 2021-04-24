@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Edisson Bedoya Gómez</h1>
-<h3 align="center">Back-end, coffee lover.</h3>
+<h1>Hi 👋, I'm Edisson Bedoya Gómez</h1>
+<h3>Back-end, coffee lover.</h3>
 
 - 🔭 I’m currently working on [Direktio](https://www.direktio.com/)
 
