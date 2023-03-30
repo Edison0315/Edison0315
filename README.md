@@ -1,8 +1,6 @@
 <h1>Hi 👋, I'm Edisson Bedoya Gómez</h1>
 <h3>🤖 Back-end and ☕ coffee lover </h3>
 
-- 🔭 I’m currently working on [Direktio](https://www.direktio.com/)
-
 - 🌱 I’m currently learning **Nodejs, GraphQL, MongoDB**
 
 - 📫 How to reach me **bedoyaedison550@gmail.com**
